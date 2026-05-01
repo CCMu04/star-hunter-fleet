@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "name": "天权级-重型防御战列巡洋舰",
+    "rarity": "4星",
+    "faction": "盘古拓展集团",
+    "type": "战列巡洋舰",
+    "weaponType": "导弹",
+    "weaponRole": "投射",
+    "attackAttr": "实弹",
+    "position": "前排",
+    "obtainType": "限定",
+    "stats": {
+      "antiShipFirepower": 15200,
+      "antiAirFirepower": 1920,
+      "siegeFirepower": 1120,
+      "structureValue": 191970,
+      "damageResistance": 360,
+      "shieldValue": "5.0%",
+      "cruiseSpeed": 250,
+      "warpSpeed": 1250,
+      "storageCapacity": 115000
+    },
+    "ratings": {
+      "antiShip": "C",
+      "antiAir": "C",
+      "siege": "C",
+      "support": "B",
+      "survival": "A",
+      "strategy": "B"
+    },
+    "build": {
+      "metal": 179300,
+      "crystal": 34930,
+      "deuterium": 23010,
+      "time": "11:14:20",
+      "repairSpeed": "285/分钟"
+    },
+    "commandValue": 35,
+    "maxService": 6,
+    "flagshipSkill": "舰队集火、天权防线",
+    "tags": ["二段掩护", "反击防空", "弱点定位"],
+    "modules": ["武器系统", "装甲系统", "动力系统", "能源系统", "指挥系统"],
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=200&h=200&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "斗牛级-脉冲炮驱逐舰",
+    "rarity": "3星",
+    "faction": "木星工业",
+    "type": "驱逐舰",
+    "weaponType": "脉冲炮",
+    "weaponRole": "直射",
+    "attackAttr": "能量",
+    "position": "前排",
+    "obtainType": "普通",
+    "stats": {
+      "antiShipFirepower": 8600,
+      "antiAirFirepower": 2400,
+      "siegeFirepower": 680,
+      "structureValue": 45000,
+      "damageResistance": 120,
+      "shieldValue": "3.0%",
+      "cruiseSpeed": 450,
+      "warpSpeed": 1500,
+      "storageCapacity": 25000
+    },
+    "ratings": {
+      "antiShip": "B",
+      "antiAir": "A",
+      "siege": "C",
+      "support": "C",
+      "survival": "C",
+      "strategy": "C"
+    },
+    "build": {
+      "metal": 45000,
+      "crystal": 8900,
+      "deuterium": 5600,
+      "time": "3:20:00",
+      "repairSpeed": "120/分钟"
+    },
+    "commandValue": 10,
+    "maxService": 10,
+    "tags": ["高速直射", "能量输出"],
+    "modules": ["武器系统", "装甲系统", "动力系统"],
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?q=80&w=200&h=200&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "光锥级-通用巡洋舰",
+    "rarity": "3星",
+    "faction": "诺玛运输",
+    "type": "巡洋舰",
+    "weaponType": "导弹",
+    "weaponRole": "投射",
+    "attackAttr": "实弹",
+    "position": "中排",
+    "obtainType": "普通",
+    "stats": {
+      "antiShipFirepower": 12500,
+      "antiAirFirepower": 4200,
+      "siegeFirepower": 1800,
+      "structureValue": 78000,
+      "damageResistance": 220,
+      "shieldValue": "4.0%",
+      "cruiseSpeed": 380,
+      "warpSpeed": 1350,
+      "storageCapacity": 55000
+    },
+    "ratings": {
+      "antiShip": "A",
+      "antiAir": "B",
+      "siege": "B",
+      "support": "B",
+      "survival": "B",
+      "strategy": "B"
+    },
+    "build": {
+      "metal": 78000,
+      "crystal": 15600,
+      "deuterium": 9800,
+      "time": "5:30:00",
+      "repairSpeed": "180/分钟"
+    },
+    "commandValue": 15,
+    "maxService": 8,
+    "tags": ["综合输出", "均衡配置"],
+    "modules": ["武器系统", "装甲系统", "动力系统", "能源系统"],
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=200&h=200&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "枪骑兵级-防空导弹驱逐舰",
+    "rarity": "3星",
+    "faction": "安东尼奥斯财团",
+    "type": "驱逐舰",
+    "weaponType": "防空导弹",
+    "weaponRole": "防空",
+    "attackAttr": "实弹",
+    "position": "后排",
+    "obtainType": "普通",
+    "stats": {
+      "antiShipFirepower": 4500,
+      "antiAirFirepower": 8500,
+      "siegeFirepower": 500,
+      "structureValue": 42000,
+      "damageResistance": 110,
+      "shieldValue": "3.0%",
+      "cruiseSpeed": 430,
+      "warpSpeed": 1480,
+      "storageCapacity": 28000
+    },
+    "ratings": {
+      "antiShip": "C",
+      "antiAir": "S",
+      "siege": "C",
+      "support": "C",
+      "survival": "C",
+      "strategy": "B"
+    },
+    "build": {
+      "metal": 48000,
+      "crystal": 9500,
+      "deuterium": 6200,
+      "time": "3:45:00",
+      "repairSpeed": "130/分钟"
+    },
+    "commandValue": 10,
+    "maxService": 12,
+    "tags": ["区域防空", "拦截无人机"],
+    "modules": ["武器系统", "装甲系统", "动力系统"],
+    "image": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?q=80&w=200&h=200&fit=crop"
+  },
+  {
+    "id": "5",
+    "name": "红宝石级-离子炮护卫舰",
+    "rarity": "2星",
+    "faction": "木星工业",
+    "type": "护卫舰",
+    "weaponType": "离子炮",
+    "weaponRole": "直射",
+    "attackAttr": "能量",
+    "position": "后排",
+    "obtainType": "普通",
+    "stats": {
+      "antiShipFirepower": 6800,
+      "antiAirFirepower": 1200,
+      "siegeFirepower": 350,
+      "structureValue": 25000,
+      "damageResistance": 60,
+      "shieldValue": "2.0%",
+      "cruiseSpeed": 520,
+      "warpSpeed": 1550,
+      "storageCapacity": 15000
+    },
+    "ratings": {
+      "antiShip": "A",
+      "antiAir": "C",
+      "siege": "C",
+      "support": "C",
+      "survival": "D",
+      "strategy": "C"
+    },
+    "build": {
+      "metal": 28000,
+      "crystal": 5600,
+      "deuterium": 3500,
+      "time": "2:10:00",
+      "repairSpeed": "80/分钟"
+    },
+    "commandValue": 5,
+    "maxService": 15,
+    "tags": ["高伤输出", "低生存"],
+    "modules": ["武器系统", "装甲系统", "动力系统"],
+    "image": "https://images.unsplash.com/photo-1507400492013-162706c8c05e?q=80&w=200&h=200&fit=crop"
+  }
+]
