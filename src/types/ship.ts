@@ -27,6 +27,12 @@ export interface ShipBuild {
   repairSpeed: string
 }
 
+export interface ShipAdditionalInfo {
+  professionalCategory: string
+  length: string
+  implementationDate: string
+}
+
 export interface Ship {
   id: string
   name: string
@@ -48,4 +54,5 @@ export interface Ship {
   modules: string[]
   image?: string
   wikiUrl?: string
+  additionalInfo?: ShipAdditionalInfo
 }
